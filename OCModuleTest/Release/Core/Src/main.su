@@ -1,0 +1,6 @@
+main.c:64:13:TIM_OC_SetMode.constprop	0	static
+main.c:143:6:HAL_TIM_OC_DelayElapsedCallback	16	static
+main.c:272:6:SystemClock_Config	88	static,ignoring_inline_asm
+main.c:172:5:main	32	static
+main.c:329:6:Error_Handler	0	static,ignoring_inline_asm
+main.c:348:6:assert_failed	0	static
